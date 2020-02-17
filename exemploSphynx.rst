@@ -158,7 +158,7 @@ Outra forma de acceder é facendo unha definición antes é nombrarla `colea`_.
 #doc en https://www.sphinx-doc.org/es/stable/rest.html
 
 
-Enlace a listas numeradas `Listas non numeradas`_
+Enlace a listas numeradas `Lista non numeradas`_
 
 Creamos una figura accediendo a una foto que hemos puesto en la carpeta static:
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
