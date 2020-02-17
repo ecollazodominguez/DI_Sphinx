@@ -169,7 +169,7 @@ Creamos una figura accediendo a una foto que hemos puesto en la carpeta static:
     Este é o pe da imaxe
 
 
-    :download: `Baixate o ejemploSphinx1.rst` <source/ejemploShpinx1.rst>`_
+    :download: `Baixate o ejemploSphinx1.rst` `<source/ejemploShpinx1.rst>`_
 
     .. note::
         Esto es una nota
